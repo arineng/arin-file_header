@@ -1,0 +1,3 @@
+---
+file_header::double_quote_header: "file_header/double_quote.erb"
+file_header::pound_header: "file_header/pound.erb"
