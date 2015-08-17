@@ -79,4 +79,4 @@ but without the need for the [ripienaar/puppet-module-data](https://github.com/r
 
 ## Limitations
 
-This module was test with CentOS 6.x, current no limitations that that should prevent it from being used with other versions or OS's.
+This module was test with CentOS 6.x, currently no limitations that that should prevent it from being used with other versions or OS's.
