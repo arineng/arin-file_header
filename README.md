@@ -74,7 +74,7 @@ define my_define {
 
 ## Reference
 
-The idea for this module spawned from [boundedinfinity/bi-puppet-banner](https://github.com/boundedinfinity/bi-puppet-banner),
+The inspiration for this module spawned from [boundedinfinity/bi-puppet-banner](https://github.com/boundedinfinity/bi-puppet-banner),
 but without the need for the [ripienaar/puppet-module-data](https://github.com/ripienaar/puppet-module-data) dependency.
 
 ## Limitations
